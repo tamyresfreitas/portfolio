@@ -3411,27 +3411,6 @@ body {
 .cid-r9zpen7WPv .card-title B {
   color: #4f4943;
 }
-.cid-rvKMiBVG1E {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rvKMiBVG1E .image-block {
-  margin: auto;
-}
-.cid-rvKMiBVG1E figcaption {
-  position: relative;
-}
-.cid-rvKMiBVG1E figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rvKMiBVG1E .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rvWJopgnt0 {
   background: #ffffff;
   padding-top: 60px;
